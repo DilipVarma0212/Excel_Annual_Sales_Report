@@ -1,4 +1,4 @@
-# Excel_Annual_Sales_Report
+# Vrinda Store Annual Report 
 
 Project Summary: The project focused on analyzing data from 'VRINDA STORE,' a clothing store with online sales channels. The objective was to examine the data of year 2022 and generate an annual report to enhance the business in 2023.
 
